@@ -54,7 +54,7 @@ A ideia foi permitir cruzamentos entre diferentes variáveis, como estado civil,
 
 ## 📈 Dashboard
 
-![Dashboard](Imagens/Dashboard.png)
+!![Descrição da imagem](imagens/dashboard.png)
 
 ---
 
